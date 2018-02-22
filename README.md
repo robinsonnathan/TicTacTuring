@@ -1,2 +1,0 @@
-# TicTacTuring
-Created with CodeSandbox
